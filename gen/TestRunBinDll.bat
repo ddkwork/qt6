@@ -1,0 +1,1 @@
+go test -v -run "TestRunBinDll" -timeout 30m
